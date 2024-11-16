@@ -21,7 +21,7 @@ repository               : "chengyuyang-njit/chengyuyang-njit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nycs.png"
+  avatar           : "nycs.jpg"
   name             : "Yang, Chengyu  (杨程宇）"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in computer science at NJIT"
