@@ -15,7 +15,7 @@ Machine learning, particularly its appliaction in medical imaging and computer-a
 Publications
 ------
 - Chengyu Yang* and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em>.
-[[Paper](http://chengyuyang-njit.github.io/files/paper-1.pdf)][[Code](https://github.com/chengyuyang-njit/rosacea_detection)][[Slides](http://chengyuyang-njit.github.io/files/micad-2024-slides.pdf)]
+[[Paper](https://arxiv.org/abs/2411.07074)][[Code](https://github.com/chengyuyang-njit/rosacea_detection)][[Slides](http://chengyuyang-njit.github.io/files/micad-2024-slides.pdf)]
 
 Latest News
 ------
