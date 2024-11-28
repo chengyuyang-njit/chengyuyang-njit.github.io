@@ -25,7 +25,7 @@ Latest News
 
 Teaching Assistant
 ------
-- CS670001, CS670003, CS670885: Artificial Intelligence, NJIT, 2024 Fall
+- CS670-001, CS670-003, CS670-885: Artificial Intelligence, NJIT, 2024 Fall
 - CSCI301-0102: Software Development, William & Mary, 2024 Spring
 - CSCI243-01: Discrete Mathematics, William & Mary, 2023 Spring & 2023 Fall
 - CSCI303-01: Algorithms, William & Mary, 2022 Fall
