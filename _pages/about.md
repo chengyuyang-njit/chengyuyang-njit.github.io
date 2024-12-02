@@ -12,8 +12,6 @@ Research Interest
 ------
 Machine learning, particularly its appliaction in medical imaging and computer-aided diagnosis.
 
-Preprints
-------
 
 Publications
 ------
