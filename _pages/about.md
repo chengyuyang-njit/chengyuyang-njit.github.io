@@ -29,7 +29,7 @@ Industrial Experience
 -  HUAWEI, Software Engineer Intern, 06/2021 - 09/2021, Shenzhen, China
 
 
-Teaching Assistant
+Teaching Assistant Experience
 ------
 - CS670-001, CS670-003, CS670-885: Artificial Intelligence, NJIT, 2024 Fall
 - CSCI301-0102: Software Development, William & Mary, 2024 Spring
