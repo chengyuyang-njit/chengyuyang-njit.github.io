@@ -20,6 +20,7 @@ Publications
 
 Latest News
 ------
+-<u>[12/12/2024]</u> Paper "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity" is accepted by <em>IEEE 17th International Conference on Computer Research and Development (ICRRD, 2025)</em> at Shangrao, China.
 - <u>[11/06/2024]</u> Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em> at The University of Manchester, UK.
 - <u>[09/03/2024]</u> Starting my Ph.D. journey at NJIT.
 - ......
