@@ -35,8 +35,9 @@ Industrial Experience
 
 Teaching Assistant Experience
 ------
-- CS670-001, CS670-003, CS670-885: Artificial Intelligence, NJIT, 2024 Fall
-- CSCI301-0102: Software Development, William & Mary, 2024 Spring
-- CSCI243-01: Discrete Mathematics, William & Mary, 2023 Spring & 2023 Fall
-- CSCI303-01: Algorithms, William & Mary, 2022 Fall
+- CS375: Intro to Machine Learning, NJIT, 2025 Spring
+- CS670: Artificial Intelligence, NJIT, 2024 Fall & 2025 Spring
+- CSCI301: Software Development, William & Mary, 2024 Spring
+- CSCI243: Discrete Mathematics, William & Mary, 2023 Spring & 2023 Fall
+- CSCI303: Algorithms, William & Mary, 2022 Fall
 
