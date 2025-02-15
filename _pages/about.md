@@ -10,7 +10,7 @@ I am a first-year Ph.D. student in the department of computer science at [New Je
 
 Research Interest
 ------
-Machine learning, particularly its appliaction in medical imaging and computer-aided diagnosis.
+Machine learning, particularly statistical learning and its appliaction in medical imaging and computer-aided diagnosis.
 
 
 Publications
