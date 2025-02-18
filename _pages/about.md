@@ -10,7 +10,7 @@ I am a first-year Ph.D. student in the department of computer science at [New Je
 
 Research Interest
 ------
-Machine learning, particularly statistical learning and its appliaction in medical imaging and computer-aided diagnosis.
+Machine learning, statistical learning in particular and its appliaction in medical imaging and computer-aided diagnosis.
 
 
 Publications
@@ -21,8 +21,8 @@ Publications
 
 Latest News
 ------
-- <u>[02/14/2025]</u> $50,000 grant approved by the Grace Hopper Artificial Intelligence Research Institute for AI-powered automatic rosacea detection research.
-- <u>[12/12/2024]</u> Paper "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity" is accepted by <em>IEEE 17th International Conference on Computer Research and Development (ICCRD, 2025)</em> at Shangrao, China.
+- <u>[02/14/2025]</u> $50,000 grant approved by the Grace Hopper Artificial Intelligence Research Institute for AI-powered rosacea detection research.
+- <u>[12/12/2024]</u> Paper "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity" is accepted by <em>IEEE 17th International Conference on Computer Research and Development (IEEE ICCRD, 2025)</em> at Shangrao, China.
 - <u>[11/06/2024]</u> Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em> at The University of Manchester, UK.
 - <u>[09/03/2024]</u> Starting my Ph.D. journey at NJIT.
 - ......
@@ -35,7 +35,7 @@ Industrial Experience
 
 Teaching Assistant Experience
 ------
-- CS375: Intro to Machine Learning, NJIT, 2025 Spring
+- CS375: Introduction to Machine Learning, NJIT, 2025 Spring
 - CS670: Artificial Intelligence, NJIT, 2024 Fall & 2025 Spring
 - CSCI301: Software Development, William & Mary, 2024 Spring
 - CSCI243: Discrete Mathematics, William & Mary, 2023 Spring & 2023 Fall
