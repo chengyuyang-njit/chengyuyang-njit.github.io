@@ -36,7 +36,7 @@ Industrial Experience
 Teaching Assistant Experience
 ------
 - SP25-CS375-002: Intro to Machine Learning, NJIT
-- SP25-CS670-004, FA24-CS670-001, FA24-CS670-003, FA24-CS670-855, : Artificial Intelligence, NJIT
+- SP25-CS670-004, FA24-CS670-001/003/855: Artificial Intelligence, NJIT
 - SP24-CSCI301: Software Development, William & Mary
 - FA23-CSCI243, SP23-CSCI243: Discrete Structures, William & Mary
 - FA22-CSCI340: Algorithms, William & Mary
