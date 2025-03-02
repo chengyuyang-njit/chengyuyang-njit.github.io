@@ -30,7 +30,7 @@ Latest News
 
 Industrial Experience
 ------
--  HUAWEI, Software Engineer Intern, 06/2021 - 09/2021, Shenzhen, China
+-  HUAWEI, Internship, Software Engineer, Jul 2021 - Sep 2021, Shenzhen, China
 
 
 Teaching Assistant Experience
@@ -40,5 +40,4 @@ Teaching Assistant Experience
 - SP24-CSCI301: Software Development, William & Mary
 - FA23-CSCI243, SP23-CSCI243: Discrete Structures, William & Mary
 - FA22-CSCI340: Algorithms, William & Mary
-- 
 
