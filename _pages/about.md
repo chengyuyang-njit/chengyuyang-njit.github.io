@@ -10,7 +10,7 @@ I am a first-year Ph.D. student in the department of computer science at [New Je
 
 Research Interest
 ------
-Machine learning, statistical learning in particular and its appliaction in medical imaging and computer-aided diagnosis.
+Machine learning, particularly statistical learning and its appliaction in medical imaging and computer-aided diagnosis.
 
 
 Publications
@@ -35,6 +35,10 @@ Industrial Experience
 
 Teaching Assistant Experience
 ------
-- CS375: Introduction to Machine Learning, NJIT, 2025 Spring
-- CS670: Artificial Intelligence, NJIT, 2024 Fall & 2025 Spring
+- SP25-CS375-002: Intro to Machine Learning, NJIT
+- SP25-CS670-004, FA24-CS670-001, FA24-CS670-003, FA24-CS670-855, : Artificial Intelligence, NJIT
+- SP24-CSCI301: Software Development, William & Mary
+- FA23-CSCI243, SP23-CSCI243: Discrete Structures, William & Mary
+- FA22-CSCI340: Algorithms, William & Mary
+- 
 
