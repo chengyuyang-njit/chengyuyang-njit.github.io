@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student in the department of computer science at [New Jersey Institute of Technology](https://www.njit.edu/), advised by [Prof. Chengjun Liu](https://web.njit.edu/~cliu/). Previously, I received my Bachelor's degree in information & computing science from the department of mathematics at [South China University of Technology](https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115). 
+I am a first-year Ph.D. student in the department of computer science at New Jersey Institute of Technology, advised by [Prof. Chengjun Liu](https://web.njit.edu/~cliu/). Previously, I received my Bachelor's degree in information & computing science from the department of mathematics at South China University of Technology. 
 
 Research Interest
 ------
