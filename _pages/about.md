@@ -17,7 +17,7 @@ Publications
 ------
 - Chengyu Yang* and Chengjun Liu, "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity", <em>2025 IEEE 17th International Conference on Computer Research and Development</em>.[[Paper](https://arxiv.org/abs/2504.08073)][[Code](https://github.com/chengyuyang-njit/ICCRD-2025)]
 - Chengyu Yang* and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", <em>2024 The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>.
-[[Paper](https://arxiv.org/abs/2411.07074)][[Code](https://github.com/chengyuyang-njit/rosacea_detection)]
+[[Paper](https://link.springer.com/content/pdf/10.1007/978-981-96-3863-5_11.pdf)][[Code](https://github.com/chengyuyang-njit/rosacea_detection)]
 
 Latest News
 ------
