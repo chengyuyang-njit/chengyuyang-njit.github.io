@@ -23,6 +23,7 @@ Publications
 Latest News
 ------
 - <u>[05/26/2025]</u> Paper "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter" is accepted by <em>The 11th IEEE International Conference on Big Data Computing Service and Machine Learning Applications</em> at Tucson, Arizona.
+- <u>[03/24/2025] Approved for NJIT GSA Travel Award to support conference travel and research presentation.</u>
 - <u>[02/14/2025]</u> $50,000 grant is awarded by the Grace Hopper Artificial Intelligence Research Institute to our research group for AI-powered rosacea detection research.
 - <u>[12/12/2024]</u> Paper "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity" is accepted by <em>IEEE The 17th International Conference on Computer Research and Development</em> (IEEE ICCRD, 2025) at Shangrao, China.
 - <u>[11/06/2024]</u> Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> (MICAD, 2024) at The University of Manchester, UK.
