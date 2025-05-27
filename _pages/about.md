@@ -16,7 +16,7 @@ Machine learning, particularly statistical learning and its application in medic
 Publications
 ------
 - Chengyu Yang* and Chengjun Liu, "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter", <em>2025 IEEE The 11th International Conference on Big Data Computing Service and Machine Learning Applications</em>. 
-- Chengyu Yang* and Chengjun Liu, "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity", <em>2025 IEEE 17th International Conference on Computer Research and Development</em>.[[Paper](https://ieeexplore.ieee.org/document/10962992)][[Code](https://github.com/chengyuyang-njit/ICCRD-2025)]
+- Chengyu Yang* and Chengjun Liu, "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity", <em>2025 IEEE The 17th International Conference on Computer Research and Development</em>.[[Paper](https://ieeexplore.ieee.org/document/10962992)][[Code](https://github.com/chengyuyang-njit/ICCRD-2025)]
 - Chengyu Yang* and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", <em>2024 The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>.
 [[Paper](https://link.springer.com/content/pdf/10.1007/978-981-96-3863-5_11.pdf)][[Code](https://github.com/chengyuyang-njit/rosacea_detection)]
 
@@ -24,7 +24,7 @@ Latest News
 ------
 - <u>[05/26/2025]</u> Paper "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter" is accepted by <em>The 11th IEEE International Conference on Big Data Computing Service and Machine Learning Applications</em> at Tucson, Arizona.
 - <u>[02/14/2025]</u> $50,000 grant is awarded by the Grace Hopper Artificial Intelligence Research Institute to our research group for AI-powered rosacea detection research.
-- <u>[12/12/2024]</u> Paper "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity" is accepted by <em>IEEE 17th International Conference on Computer Research and Development</em> (IEEE ICCRD, 2025) at Shangrao, China.
+- <u>[12/12/2024]</u> Paper "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity" is accepted by <em>IEEE The 17th International Conference on Computer Research and Development</em> (IEEE ICCRD, 2025) at Shangrao, China.
 - <u>[11/06/2024]</u> Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> (MICAD, 2024) at The University of Manchester, UK.
 - <u>[09/03/2024]</u> Starting my Ph.D. journey at NJIT.
 - ......
