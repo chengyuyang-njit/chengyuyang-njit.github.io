@@ -15,7 +15,7 @@ Machine learning, particularly statistical learning and its application in medic
 
 Publications
 ------
-- Chengyu Yang* and Chengjun Liu, "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter", <em>2025 IEEE The 11th International Conference on Big Data Computing Service and Machine Learning Applications</em>. 
+- Chengyu Yang* and Chengjun Liu, "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter", <em>2025 IEEE The 11th International Conference on Big Data Computing Service and Machine Learning Applications</em>. [[Paper](https://arxiv.org/pdf/2505.21634)][[Code](https://github.com/chengyuyang-njit/ICCRD-2025)]
 - Chengyu Yang* and Chengjun Liu, "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity", <em>2025 IEEE The 17th International Conference on Computer Research and Development</em>.[[Paper](https://ieeexplore.ieee.org/document/10962992)][[Code](https://github.com/chengyuyang-njit/ICCRD-2025)]
 - Chengyu Yang* and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", <em>2024 The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>.
 [[Paper](https://link.springer.com/content/pdf/10.1007/978-981-96-3863-5_11.pdf)][[Code](https://github.com/chengyuyang-njit/rosacea_detection)]
