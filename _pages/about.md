@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student from the [FRVP Lab](https://frvp.njit.edu/index.html) in the department of computer science at New Jersey Institute of Technology, advised by [Prof. Chengjun Liu](https://web.njit.edu/~cliu/). Previously, I received my Bachelor's degree in information & computing science from the department of mathematics at South China University of Technology. 
+I am a second year Ph.D. student from the [FRVP Lab](https://frvp.njit.edu/index.html) in the department of computer science at New Jersey Institute of Technology, advised by [Prof. Chengjun Liu](https://web.njit.edu/~cliu/). Previously, I received my Bachelor's degree in information & computing science from the department of mathematics at South China University of Technology. 
 
 Research Interest
 ------
@@ -15,6 +15,7 @@ Machine learning, particularly statistical learning and its application in medic
 
 Publications
 ------
+- Chengyu Yang* and Chengjun Liu, " Investigating the Impact of Various Loss Functions and Learnable Wiener Filter for Laparoscopic Image Desmoking", <em>2025 The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>.
 - Chengyu Yang* and Chengjun Liu, "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter", <em>2025 IEEE The 11th International Conference on Big Data Computing Service and Machine Learning Applications</em>. [[Paper](https://arxiv.org/pdf/2505.21634)][[Code](https://github.com/chengyuyang-njit/ImageDesmoke)]
 - Chengyu Yang* and Chengjun Liu, "Interpretable Automatic Rosacea Detection with Whitened Cosine Similarity", <em>2025 IEEE The 17th International Conference on Computer Research and Development</em>.[[Paper](https://ieeexplore.ieee.org/document/10962992)][[Code](https://github.com/chengyuyang-njit/ICCRD-2025)]
 - Chengyu Yang* and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", <em>2024 The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>.
