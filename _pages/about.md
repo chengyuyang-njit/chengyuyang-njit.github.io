@@ -24,7 +24,7 @@ Publications
 
 Latest News
 ------
--<u>[09/04/2025]</u> Paper "Patch-based Automatic Rosacea Detection Using the ResNet Deep Learning Framework" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
+- <u>[09/04/2025]</u> Paper "Patch-based Automatic Rosacea Detection Using the ResNet Deep Learning Framework" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
 - <u>[09/04/2025]</u> Paper "Investigating the Impact of Various Loss Functions and Learnable Wiener Filter for Laparoscopic Image Desmoking" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
 - <u>[05/26/2025]</u> Paper "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter" is accepted by <em>The 11th IEEE International Conference on Big Data Computing Service and Machine Learning Applications</em> at Tucson, Arizona.
 - <u>[03/24/2025]</u> Approved for NJIT GSA Travel Award to support conference travel and research presentation.
