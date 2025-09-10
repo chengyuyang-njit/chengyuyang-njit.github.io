@@ -24,6 +24,7 @@ Publications
 
 Latest News
 ------
+- <u>[09/10/2025]</u> Paper "Privacy-Preserving Automated Rosacea Detection Based on Medically Inspired Region of Interest Selection" is accepted by <em>IEEE The 2nd International Conference on Electrical and Computer Engineering Researches</em> at Antananarivo, MADAGASCAR.
 - <u>[09/05/2025]</u> Paper "Patch-based Automatic Rosacea Detection Using the ResNet Deep Learning Framework" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
 - <u>[09/04/2025]</u> Paper "Investigating the Impact of Various Loss Functions and Learnable Wiener Filter for Laparoscopic Image Desmoking" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
 - <u>[05/26/2025]</u> Paper "Laparoscopic Image Desmoking Using the U-Net with New Loss Function and Integrated Differentiable Wiener Filter" is accepted by <em>The 11th IEEE International Conference on Big Data Computing Service and Machine Learning Applications</em> at Tucson, Arizona.
