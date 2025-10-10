@@ -15,6 +15,7 @@ Machine learning, particularly statistical learning and its application in medic
 
 Publications
 ------
+- Chengyu Yang* and Chengjun Liu, "Towards Building AI Doctor and Digital Assistant by Capitalizing on A Mixture of AI Medical Systems", <em>2025 The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>.
 - Chengyu Yang*, Rishik Reddy Yesgari and Chengjun Liu, ""Privacy-Preserving Automated Rosacea Detection Based on Medically Inspired Region of Interest  Selection", <em>IEEE The 2nd International Conference on Electrical and Computer Engineering Researches</em>. [[Paper](https://arxiv.org/pdf/2509.09844)][[code](https://github.com/Rishik15/PrivacyPreservingRosaceaDetection)]
 - Chengyu Yang*, Rishik Reddy Yesgari and Chengjun Liu, "Patch-based Automatic Rosacea Detection Using the ResNet Deep Learning Framework", <em>2025 The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>. [[Paper](https://arxiv.org/pdf/2509.09841)][[Code](https://github.com/Rishik15/PatchBasedRosaceaDetection)]
 - Chengyu Yang* and Chengjun Liu, "Investigating the Impact of Various Loss Functions and Learnable Wiener Filter for Laparoscopic Image Desmoking", <em>2025 The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em>. [[Paper](https://arxiv.org/pdf/2509.09849)]
@@ -25,6 +26,7 @@ Publications
 
 Latest News
 ------
+- <u>[10/09/2025]</u> Paper "Towards Building AI Doctor and Digital Assistant by Capitalizing on A Mixture of AI Medical Systems" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
 - <u>[09/10/2025]</u> Paper "Privacy-Preserving Automated Rosacea Detection Based on Medically Inspired Region of Interest Selection" is accepted by <em>IEEE The 2nd International Conference on Electrical and Computer Engineering Researches</em> at Antananarivo, MADAGASCAR.
 - <u>[09/05/2025]</u> Paper "Patch-based Automatic Rosacea Detection Using the ResNet Deep Learning Framework" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
 - <u>[09/04/2025]</u> Paper "Investigating the Impact of Various Loss Functions and Learnable Wiener Filter for Laparoscopic Image Desmoking" is accepted by <em>The 6th International Conference on Medical Imaging and Computer-Aided Diagnosis</em> at London, UK.
