@@ -46,7 +46,8 @@ Industrial Experience
 
 Teaching Experience
 ------
+- FA25-DS644-1J1: Intro to Big Data, Teaching Assistant, NJIT
 - SP25-CS375-002: Intro to Machine Learning, Teaching Assistant, NJIT
-- SP25-CS670-004, FA24-CS670-001/003/855: AI, Teaching Assistant, NJIT
+- FA25-CS670-001, SP25-CS670-004, FA24-CS670-001/003/855: AI, Teaching Assistant, NJIT
 <!--- SP24-CSCI301: Software Development, Teaching Assistant, William & Mary- FA23-CSCI243, SP23-CSCI243: Discrete Structures, Teaching Assistant, William & Mary- FA22-CSCI340: Algorithms, Teaching Assistant, William & Mary-->
 
