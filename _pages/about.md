@@ -10,7 +10,7 @@ I am a Ph.D. student from the department of computer science at New Jersey Insti
 
 Research Interest
 ------
-Machine learning, particularly statistical learning and its application in medical image processing and computer-aided diagnosis.
+Machine learning, and its application in medical image processing and computer-aided diagnosis.
 
 
 Publications
