@@ -39,7 +39,7 @@ Latest News
 - ......
 
 
-Industrial Experience NJIT Grace Hopper Artificial Intelligence Research Institute seed grant
+Industrial Experience
 -  HUAWEI, Internship, Software Engineer, Jul 2021 - Sep 2021, Shenzhen, China
 
 
