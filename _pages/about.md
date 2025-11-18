@@ -40,6 +40,7 @@ Latest News
 
 
 Industrial Experience
+------
 -  HUAWEI, Internship, Software Engineer, Jul 2021 - Sep 2021, Shenzhen, China
 
 
